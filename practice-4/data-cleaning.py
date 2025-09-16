@@ -72,5 +72,6 @@ print("Cleaned dataset saved to '../dataset/monterrey_aq.csv'")
 # Vemos las primeras filas de nuestro dataset limpio, comprobando tambien que no existen valores nulos
 print("-"*40)
 print("Cleaned Dataset:")
+print(df_airq.columns)
 print(df_airq.head())
 print(df_airq.info())
