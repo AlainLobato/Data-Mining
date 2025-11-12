@@ -3,3 +3,4 @@ seaborn
 scipy
 matplotlib
 scikit-learn
+statsmodels
